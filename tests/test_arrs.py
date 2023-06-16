@@ -1,6 +1,7 @@
 import unittest
 from utils import arrs
 
+
 class TestArrs(unittest.TestCase):
 
     def test_get(self):
